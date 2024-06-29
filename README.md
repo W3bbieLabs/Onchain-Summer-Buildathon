@@ -17,6 +17,7 @@ Public Goods are elements which everyone can access and enjoy — clean air, par
 - [Blue Paper](https://mirror.xyz/bigtrav.eth/_GeVdMm8DSEIS36EwbqlGCljoddrVgvK69kq62uRCHc)
 - [PGC Website](https://publicgoods.club/)
 - [Membership Token](https://pg-club.netlify.app/)
+- [Membership Mint](https://pgc-members.xyz/)
 - [Collectibles Gallery](https://zora.co/collect/base:0xa6735cb18ea3e233c535dacd7276d64db02fd9e3)
 - [@PublicGoodsClub](https://twitter.com/PublicGoodsClub)
 - [@publicgoodsclub](https://www.instagram.com/publicgoodsclub)
@@ -118,7 +119,7 @@ _Note: Submit future bugs via Issues. This is only a temporary bug tracker._
 | Name                                                                         | Role(s)                                     |
 | ---------------------------------------------------------------------------- | ------------------------------------------- |
 | [Kyn Adams](https://twitter.com/Tek_Gawd)                                    | Server, Tester                              |
-| [Tabari Humphries](https://www.instagram.com/gyasi.eth/)                     | Environmental Design, Level Design          |
+| [Tabari Humphries](https://www.instagram.com/gyasi.eth/)                     | erc721 Contract, Governance Management      |
 | [Jack Lester](https://www.linkedin.com/in/jacklester/)                       | UI, Technical Documentation, Music & SFX    |
 | [Travis Rice](https://www.linkedin.com/in/travislrice/)                      | Project Manager, Character Design           |
 | [Sailesh Sivakumar](https://www.linkedin.com/in/sailesh-sivakumar-453061141) | Marketplace, Smart Contracts                |
