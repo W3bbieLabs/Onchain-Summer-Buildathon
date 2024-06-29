@@ -47,7 +47,6 @@ Our goal is to achieve a new and creative way to fund public goods. We're giving
 ### 🛠 Tech Stack
 
 #### Membership Token and Mint App
-
 - thirdweb v5
 - nextjs
 - react
@@ -56,29 +55,28 @@ Our goal is to achieve a new and creative way to fund public goods. We're giving
 - typescipt
 
 #### Website
-
 - Firebase
 - JavaScript
 - HTML/CSS
 - PHP
 
 #### PFPs (and Brand Assets)
-
 - Photoshop
+- Photo P
 - Illustrator
 - Udio
 
 #### Collectibles Gallery
-
 - Zora
 
 ### 🎨 Aesthetics
 
 #### Design & Branding
 
-Public goods Club ...
+Public Goods Club ...
 
 #### Character Design
+PFP character design inspired by Pharrell-era Bape. All assets designed to fit into a canvas styled generator. Leaning into the animal metaphors
 
 ---
 
@@ -86,23 +84,36 @@ Public goods Club ...
 
 ### Areas Of Development
 
-- [Membership Token](link-to-repo)
-- [Flagship Website](link-to-repo)
+- [Membership Token, Smart Contract](https://github.com/W3bbieLabs/thirdweb-6551-smart-wallet)
 - [Collectibles Gallery](link-to-zora)
-- [Smart Contracts](link-to-repo)
-- [Brand Assets, Avatar design](link-to-repo)
+- [Avatar Generator](https://github.com/barigyasi/avatar)
+- [Brand Assets, Avatar design](https://github.com/W3bbieLabs/ONCHAIN_SUMMER_PGCDGD)
+- [Website](https://github.com/W3bbieLabs/ONCHAIN_SUMMER_PGCDGD/tree/main/public_html)
 
 ### 🏁 Milestones
 
-| Milestone Name   | Date Reached     |
-| ---------------- | ---------------- | --- |
-| <milestone-name> | <year-month-day> |     |
+| Milestone Name                                       | Date Reached                   |
+| ---------------------------------------------------- | ------------------------------ | 
+| Artwork concept finalized, canvas to pfps tested out | June 10                        |
+| Coinbase smart wallet testing                        | June 10                        |  
+| ERC-6551 tested                                      | June 10                        | 
+| Commissioned artwork from collaborator               | June 17                        | 
+| Smart features tested                                | June 17                        | 
+| UI and website design                                | June 17                        | 
+| ERC-6551 built                                       | June 24                        |
+| Website launch                                       | June 24                        |
+| Received artwork from collaborator                   | June 24                        |
+| Finalize art                                         | June 29                        |
+| Create mint page                                     | June 29                        |
+| Deploy to mainnet                                    | June 29                        |
+| Submit project                                       | June 29                        |
 
 ### 🐞 Known Bugs
 
-| Bug Name   | Description   | Severity (1-5)   | ResolvedFixed |
-| ---------- | ------------- | ---------------- | ------------- |
-| <bug-name> | <description> | <severity-level> | Yes.          |
+| Bug Name                  | Description                                                 | Severity (1-5)   | Resolved      |
+| ------------------------- | ----------------------------------------------------------- | ---------------- | ------------- |
+| 6551 create account       | No compute on on account creation                           | 4                | Yes           |
+| Metamask on Safari mobile | Wallet connect fails. Other borwsers, Matemask Browser work | 3                | No            |
 
 _Note: Submit future bugs via Issues. This is only a temporary bug tracker._
 
@@ -120,7 +131,7 @@ _Note: Submit future bugs via Issues. This is only a temporary bug tracker._
 | ---------------------------------------------------------------------------- | ------------------------------------------- |
 | [Kyn Adams](https://twitter.com/Tek_Gawd)                                    | Server, Tester                              |
 | [Tabari Humphries](https://www.instagram.com/gyasi.eth/)                     | erc721 Contract, Governance Management      |
-| [Jack Lester](https://www.linkedin.com/in/jacklester/)                       | UI, Technical Documentation, Music & SFX    |
+| [Jack Lester](https://www.jack-jackjack.com)                                 | UI, Technical Documentation, Music & SFX    |
 | [Travis Rice](https://www.linkedin.com/in/travislrice/)                      | Project Manager, Character Design           |
 | [Sailesh Sivakumar](https://www.linkedin.com/in/sailesh-sivakumar-453061141) | Marketplace, Smart Contracts                |
 | [Chris Smith](https://twitter.com/_dev_og)                                   | 6551 Contract Management, 1155 Claim/Viewer |
