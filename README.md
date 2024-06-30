@@ -73,10 +73,10 @@ Our goal is to achieve a new and creative way to fund public goods. We're giving
 
 #### Design & Branding
 
-Public Goods Club ...
+Public Goods Club branding is a modern take on <baby milo generator>...  Color wise, we have chosen a blue environment in alignment with Base's color theme. As far as typography, an expressive sans-serif felt most appropriate to convey a feeling of freshness. 
 
 #### Character Design
-PFP character design inspired by Pharrell-era Bape. All assets designed to fit into a canvas styled generator. Leaning into the animal metaphors
+PFP character design inspired by Pharrell-era Bape. All assets designed to fit into a canvas styled generator. Leaning into the animal metaphors. There are about 65 million possibilities for PFP outouts.
 
 ---
 
@@ -106,14 +106,14 @@ PFP character design inspired by Pharrell-era Bape. All assets designed to fit i
 | Finalize art                                         | June 29                        |
 | Create mint page                                     | June 29                        |
 | Deploy to mainnet                                    | June 29                        |
-| Submit project                                       | June 29                        |
+| Submit project                                       | June 30                        |
 
 ### 🐞 Known Bugs
 
 | Bug Name                  | Description                                                 | Severity (1-5)   | Resolved      |
 | ------------------------- | ----------------------------------------------------------- | ---------------- | ------------- |
 | 6551 create account       | No compute on on account creation                           | 4                | Yes           |
-| Metamask on Safari mobile | Wallet connect fails. Other borwsers, Matemask Browser work | 3                | No            |
+| Metamask on Safari mobile | Wallet connect fails. Other borwsers, Metamask Browser work | 3                | No            |
 
 _Note: Submit future bugs via Issues. This is only a temporary bug tracker._
 
@@ -121,7 +121,8 @@ _Note: Submit future bugs via Issues. This is only a temporary bug tracker._
 
 ## 👽 Future Plans for Public Goods Club
 
-- <future-plan>
+- Fund treasury to 10eth
+- Host onboarding event in Brussels
 
 ---
 
@@ -129,11 +130,11 @@ _Note: Submit future bugs via Issues. This is only a temporary bug tracker._
 
 | Name                                                                         | Role(s)                                     |
 | ---------------------------------------------------------------------------- | ------------------------------------------- |
-| [Kyn Adams](https://twitter.com/Tek_Gawd)                                    | Server, Tester                              |
-| [Tabari Humphries](https://www.instagram.com/gyasi.eth/)                     | erc721 Contract, Governance Management      |
-| [Jack Lester](https://www.jack-jackjack.com)                                 | UI, Technical Documentation, Music & SFX    |
-| [Travis Rice](https://www.linkedin.com/in/travislrice/)                      | Project Manager, Character Design           |
-| [Sailesh Sivakumar](https://www.linkedin.com/in/sailesh-sivakumar-453061141) | Marketplace, Smart Contracts                |
+| [Kyn Adams](https://twitter.com/Tek_Gawd)                                    | Testing, Quality Assurance                             |
+| [Tabari Humphries](https://www.instagram.com/gyasi.eth/)                     | Mint Experience Development      |
+| [Jack Lester](https://www.jack-jackjack.com)                                 | Product Design, Web/UI Development, Brand assets, Documentation,     |
+| [Travis Rice](https://www.linkedin.com/in/travislrice/)                      | Product Design, Project Management, Character Design           |
+| [Sailesh Sivakumar](https://www.linkedin.com/in/sailesh-sivakumar-453061141) | Front-end, Smart Contracts                |
 | [Chris Smith](https://twitter.com/_dev_og)                                   | 6551 Contract Management, 1155 Claim/Viewer |
 
 ---
