@@ -16,11 +16,11 @@ Public Goods are elements which everyone can access and enjoy — clean air, par
 
 - [Blue Paper](https://mirror.xyz/bigtrav.eth/_GeVdMm8DSEIS36EwbqlGCljoddrVgvK69kq62uRCHc)
 - [PGC Website](https://publicgoods.club/)
-- [Membership Token](https://pg-club.netlify.app/)
 - [Membership Mint](https://pgc-members.xyz/)
+- [Member Token Bound Account (ERC-6551)](https://pg-club.netlify.app/)
 - [Collectibles Gallery](https://zora.co/collect/base:0xa6735cb18ea3e233c535dacd7276d64db02fd9e3)
-- [@PublicGoodsClub](https://twitter.com/PublicGoodsClub)
-- [@publicgoodsclub](https://www.instagram.com/publicgoodsclub)
+- [@PublicGoodsClub (X)](https://twitter.com/PublicGoodsClub)
+- [@publicgoodsclub (Instagram)](https://www.instagram.com/publicgoodsclub)
 
 ### 💡 Why we Created Public Goods Club
 
@@ -47,26 +47,32 @@ Our goal is to achieve a new and creative way to fund public goods. We're giving
 ### 🛠 Tech Stack
 
 #### Membership Token and Mint App
+
 - thirdweb v5
 - nextjs
 - react
 - ethers
 - tailwindcss
 - typescipt
+- prisma
+- render
 
 #### Website
+
 - Firebase
 - JavaScript
 - HTML/CSS
 - PHP
 
 #### PFPs (and Brand Assets)
+
 - Photoshop
 - Photo P
 - Illustrator
 - Udio
 
 #### Collectibles Gallery
+
 - Zora
 
 ### 🎨 Aesthetics
@@ -76,6 +82,7 @@ Our goal is to achieve a new and creative way to fund public goods. We're giving
 Public Goods Club ...
 
 #### Character Design
+
 PFP character design inspired by Pharrell-era Bape. All assets designed to fit into a canvas styled generator. Leaning into the animal metaphors
 
 ---
@@ -92,28 +99,29 @@ PFP character design inspired by Pharrell-era Bape. All assets designed to fit i
 
 ### 🏁 Milestones
 
-| Milestone Name                                       | Date Reached                   |
-| ---------------------------------------------------- | ------------------------------ | 
-| Artwork concept finalized, canvas to pfps tested out | June 10                        |
-| Coinbase smart wallet testing                        | June 10                        |  
-| ERC-6551 tested                                      | June 10                        | 
-| Commissioned artwork from collaborator               | June 17                        | 
-| Smart features tested                                | June 17                        | 
-| UI and website design                                | June 17                        | 
-| ERC-6551 built                                       | June 24                        |
-| Website launch                                       | June 24                        |
-| Received artwork from collaborator                   | June 24                        |
-| Finalize art                                         | June 29                        |
-| Create mint page                                     | June 29                        |
-| Deploy to mainnet                                    | June 29                        |
-| Submit project                                       | June 29                        |
+| Milestone Name                                       | Date Reached |
+| ---------------------------------------------------- | ------------ |
+| Artwork concept finalized, canvas to pfps tested out | June 10      |
+| Coinbase smart wallet testing                        | June 10      |
+| ERC-6551 tested                                      | June 10      |
+| Commissioned artwork from collaborator               | June 17      |
+| Smart features tested                                | June 17      |
+| UI and website design                                | June 17      |
+| ERC-6551 built                                       | June 24      |
+| Website launch                                       | June 24      |
+| Received artwork from collaborator                   | June 24      |
+| Finalize art                                         | June 29      |
+| Create mint page                                     | June 29      |
+| Deploy to mainnet                                    | June 29      |
+| Submit project                                       | June 29      |
 
 ### 🐞 Known Bugs
 
-| Bug Name                  | Description                                                 | Severity (1-5)   | Resolved      |
-| ------------------------- | ----------------------------------------------------------- | ---------------- | ------------- |
-| 6551 create account       | No compute on on account creation                           | 4                | Yes           |
-| Metamask on Safari mobile | Wallet connect fails. Other borwsers, Matemask Browser work | 3                | No            |
+| Bug Name                  | Description                                                        | Severity (1-5) | Resolved |
+| ------------------------- | ------------------------------------------------------------------ | -------------- | -------- |
+| 6551 create account       | No compute on on account creation                                  | 4              | Yes      |
+| 6551 view wallet bug      | Claimed token does not show after claim. Requires browser refresh. | 2              | Yes      |
+| Metamask on Safari mobile | Wallet connect fails. Other borwsers, Matemask Browser work        | 3              | No       |
 
 _Note: Submit future bugs via Issues. This is only a temporary bug tracker._
 
