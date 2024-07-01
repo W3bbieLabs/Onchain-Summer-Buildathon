@@ -30,9 +30,10 @@ Our goal is to achieve a new and creative way to fund public goods. We're giving
 
 ### 🤠 Bounties We are After!
 
-| Bounty Name   | Description   | Eligibility   |
-| ------------- | ------------- | ------------- |
-| <bounty-name> | <description> | <eligibility> |
+| Bounty Name           | Description   |
+| --------------------- | ------------- |
+| Gaming Track          | <description> |
+| Coinbase Smart Wallet | <description> |
 
 ### 🤔 Reasons to Become a Member?
 
@@ -47,7 +48,6 @@ Our goal is to achieve a new and creative way to fund public goods. We're giving
 ### 🛠 Tech Stack
 
 #### Membership Token and Mint App
-
 - thirdweb v5
 - nextjs
 - react
@@ -56,33 +56,30 @@ Our goal is to achieve a new and creative way to fund public goods. We're giving
 - typescipt
 - prisma
 - render
+- postgresql
 
 #### Website
-
 - Firebase
 - JavaScript
 - HTML/CSS
 - PHP
 
 #### PFPs (and Brand Assets)
-
 - Photoshop
 - Photo P
 - Illustrator
 - Udio
 
 #### Collectibles Gallery
-
 - Zora
 
 ### 🎨 Aesthetics
 
 #### Design & Branding
-Public Goods Club branding is a modern take on <baby milo generator>... Color wise, we have chosen a blue environment in alignment with Base's color 
-theme. As far as typography, an expressive sans-serif felt most appropriate to convey a feeling of freshness.
+Public Goods Club branding is a modern take on the [Pharrell:Milo Game](https://web.archive.org/web/20080723202703/http://www.pharrellwilliams.com/game/). Color wise, we have chosen a blue environment in alignment with Base's color theme. We even made our [own version of the Onchain Summer Billboard](https://zora.co/collect/base:0xa6735cb18ea3e233c535dacd7276d64db02fd9e3/1) as a mintable collectible. And as far as typography goes, [Lineal](https://velvetyne.fr/fonts/lineal/) was used for its capacity as an expressive sans-serif, conveying a feeling of freshness.
 
 #### Character Design
-PFP character design inspired by Pharrell-era Bape. We designed all elements for a wide range of PFP outputs (65M estimated). 
+Our PFP character design features over 65M generative outputs, thanks to a range of custom-feeling anatomical elements.
 
 ---
 
