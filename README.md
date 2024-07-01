@@ -85,10 +85,9 @@ Our PFP character design features over 65M generative outputs, thanks to a range
 
 ## 🚧 Development
 
-### Areas Of Development
+### Areas Of Development (w/ repo links)
 
 - [Membership Token, Smart Contract](https://github.com/W3bbieLabs/thirdweb-6551-smart-wallet)
-- [Collectibles Gallery](link-to-zora)
 - [Avatar Generator](https://github.com/barigyasi/avatar)
 - [Brand Assets, Avatar design](https://github.com/W3bbieLabs/ONCHAIN_SUMMER_PGCDGD)
 - [Website](https://github.com/W3bbieLabs/ONCHAIN_SUMMER_PGCDGD/tree/main/public_html)
