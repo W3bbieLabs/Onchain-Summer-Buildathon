@@ -143,3 +143,8 @@ _Note: Submit future bugs via Issues. This is only a temporary bug tracker._
 | [Chris Smith](https://twitter.com/_dev_og)                                   | 6551 Contract Management, 1155 Claim/Viewer                      |
 
 ---
+
+## 📚 References
+* [Token Bound Account Implementation Contract](https://thirdweb.com/thirdweb.eth/TokenBoundAccount/1.0.1)
+* [Smart Wallet Function](https://portal.thirdweb.com/references/typescript/v5/smartWallet)
+* [Account Abstraction](https://playground.thirdweb.com/connect/account-abstraction)
