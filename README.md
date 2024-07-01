@@ -28,12 +28,13 @@ We're a community of public goods enthusiasts and our mission is simple: to fund
 
 Our goal is to achieve a new and creative way to fund public goods. We're giving out grants for creative public goods projects, whether they’re big or small, with our community’s backing. We’re also making it super simple for people outside of web3 to dive in onchain.
 
-### 🤠 Bounties We are After!
+### 🛤️ Tracks We're On
 
-| Bounty Name           | Description   |
-| --------------------- | ------------- |
-| Gaming Track          | <description> |
-| Coinbase Smart Wallet | <description> |
+#### Gaming Track
+We developed an IRL Token-based gaming experience by creating an ERC-271 Member token using thirdweb's NFT Collection contract. These tokens were symbolized as game characters, a functionality made possible through account abstraction, which is commonly used in gaming to handle inventory management; which was implemented using an ERC 6551 contract.
+  
+#### Coinbase Smart Wallet
+We created smart wallet functionality using Thirdweb's v5 SDK. Our main mint and inventory page leverage smart wallet connection options, easing process of wallet creation.
 
 ### 🤔 Reasons to Become a Member?
 
@@ -135,7 +136,7 @@ _Note: Submit future bugs via Issues. This is only a temporary bug tracker._
 | Name                                                                         | Role(s)                                                          |
 | ---------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | [Kyn Adams](https://twitter.com/Tek_Gawd)                                    | Testin, Quality Assurance                                        |
-| [Tabari Humphries](https://www.instagram.com/gyasi.eth/)                     | Mint Application Development                                     |
+| [Tabari Humphries](https://www.instagram.com/gyasi.eth/)                     | Mint and Inventory Application Development                                     |
 | [Jack Lester](https://www.jack-jackjack.com)                                 | Product Design, Web/UI Development, Brand assets, Documentation  |
 | [Travis Rice](https://www.linkedin.com/in/travislrice/)                      | Product Design, Project Management, Character and Asset design   |
 | [Sailesh Sivakumar](https://www.linkedin.com/in/sailesh-sivakumar-453061141) | Front-end, Smart Wallet Development                              |
