@@ -139,7 +139,7 @@ _Note: Submit future bugs via Issues. This is only a temporary bug tracker._
 | [Tabari Humphries](https://www.instagram.com/gyasi.eth/)                     | Mint Application Development                                     |
 | [Jack Lester](https://www.jack-jackjack.com)                                 | Product Design, Web/UI Development, Brand assets, Documentation  |
 | [Travis Rice](https://www.linkedin.com/in/travislrice/)                      | Product Design, Project Management, Character and Asset design   |
-| [Sailesh Sivakumar](https://www.linkedin.com/in/sailesh-sivakumar-453061141) | Front-end, Smart Contracts                                       |
+| [Sailesh Sivakumar](https://www.linkedin.com/in/sailesh-sivakumar-453061141) | Front-end, Smart Wallet Development                              |
 | [Chris Smith](https://twitter.com/_dev_og)                                   | 6551 Contract Management, 1155 Claim/Viewer                      |
 
 ---
