@@ -1,6 +1,6 @@
 `Date last modified: 2024 06 29`
 
-# Public Good Club / Onchain-Summer-Buildathon
+# Public Goods Club / Onchain-Summer-Buildathon
 
 [Public Goods Club](https://publicgoods.club), courtesy of [W3BBIE](https://w3bbie.xyz). Built during [Base's](https://www.base.org/) [Onchain Summer Buildathon](https://www.base.org/onchainsummer?utm_source=dotorg&utm_campaign=onchainsummer).
 
